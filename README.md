@@ -1,3 +1,5 @@
+Go here to customize https://nickcoutsos.github.io/keymap-editor/
+
 # My shops https://keyboard-hoarders.com // https://keyboardhoarders.etsy.com
 # Now change the keymap using ZMK.studio 
 1. Go to zmk.studio
