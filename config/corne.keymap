@@ -77,7 +77,7 @@
 &kp TAB     &kp Q        &kp W           &kp E           &kp R             &kp T    &kp Y  &kp U              &kp I            &kp O            &kp P           &kp BSLH
 &kp ESCAPE  &hm LCTRL A  &hm LEFT_ALT S  &hm LEFT_GUI D  &hm LEFT_SHIFT F  &kp G    &kp H  &hm RIGHT_SHIFT J  &hm RIGHT_GUI K  &hm RIGHT_ALT L  &hm RCTRL SEMI  &kp SQT
 &kp GRAVE   &kp Z        &kp X           &kp C           &kp V             &kp B    &kp N  &kp M              &kp COMMA        &kp DOT          &kp FSLH        &kp PG_UP
-                                         &kp BACKSPACE   &kp DEL           &mo 1    &mo 2  &kp ENTER          &kp SPACE
+                                         &kp DELETE      &kp BACKSPACE     &mo 1    &mo 2  &kp SPACE          &kp ENTER
             >;
         };
 
